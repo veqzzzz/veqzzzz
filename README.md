@@ -11,7 +11,7 @@
       <td width="50%" valign="middle" align="left">
         <p style="color: white; font-family: monospace; font-size: 14px;">
           ◆ Class    → Backend / Full-Stack Apprentice<br>
-          ◆ Origin   → Brazil 🇧🇷
+          ◆ Origin   → Spanish/France/Morrocan 🇪🇸 🇫🇷 🇲🇦
         </p>
       </td>
       <!-- Columna Derecha: GIF -->

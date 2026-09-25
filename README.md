@@ -26,7 +26,7 @@
 <br>
 
 <h1 align="center">
-  Hey 👋 What's Up?
+
   <img src="https://flagcdn.com/w40/es.png" height="30" alt="Spain" />
   <img src="https://flagcdn.com/w40/fr.png" height="30" alt="France" />
   <img src="https://flagcdn.com/w40/ma.png" height="30" alt="Morocco" />

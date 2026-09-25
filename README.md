@@ -1,29 +1,32 @@
 <div align="center">
-  <!-- Título principal con fuente serif para dar ese toque aesthetic -->
+  <!-- Título principal con fuente gótica -->
   <h1>𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗</h1>
 </div>
 
-<!-- Tabla para crear los paneles divididos -->
-<table border="0">
+<!-- Tabla para crear los paneles (Izquierda texto, Derecha imagen) -->
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
+      <br>
       <pre>
 ◆ Class    → Backend / Full-Stack Apprentice
 ◆ Origin   → Brazil 🇧🇷
       </pre>
     </td>
-    <td width="50%" valign="top" align="center">
-      <!-- Aquí va la imagen de la cruz o el símbolo que quieras -->
-      <img src="URL_DE_TU_IMAGEN_AQUI" width="100" alt="symbol"/>
+    <td width="40%" valign="top" align="center">
+      <!-- ⚠️ AQUÍ VA TU IMAGEN. Reemplaza el enlace de abajo por uno real -->
+      <img src="https://i.pinimg.com/originals/8e/8e/8e/8e8e8e8e8e8e8e8e8e8e8e8e.jpg" width="80" alt="Cruz" style="filter: grayscale(100%);" />
     </td>
   </tr>
 </table>
+
+<br>
 
 ---
 
 ### Technologies
 
-<!-- Badges minimalistas (puedes generarlos en shields.io) -->
+<!-- Badges minimalistas en blanco y negro -->
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -33,11 +36,13 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+<br>
+
 ---
 
 ### Statistics
 
-<!-- Las estadísticas de GitHub -->
+<!-- ⚠️ AQUÍ VAN TUS ESTADÍSTICAS. Reemplaza "veqzzzz" por tu usuario real -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veqzzzz&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Estadísticas de GitHub" />
 </p>

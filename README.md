@@ -1,3 +1,31 @@
+<!-- Contenedor principal con fondo negro -->
+<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
+
+  <!-- Título con fuente gótica -->
+  <h1 style="color: white;">𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗</h1>
+  
+  <!-- Tabla para dividir texto e imagen -->
+  <table border="0" width="100%">
+    <tr>
+      <!-- Columna Izquierda: Texto -->
+      <td width="50%" valign="middle" align="left">
+        <p style="color: white; font-family: monospace; font-size: 14px;">
+          ◆ Class    → Backend / Full-Stack Apprentice<br>
+          ◆ Origin   → Spanish/France/Morrocan 🇪🇸 🇫🇷 🇲🇦
+        </p>
+      </td>
+      <!-- Columna Derecha: GIF -->
+      <td width="50%" valign="middle" align="center">
+        <!-- Aquí va tu GIF. Le puse width="200" para que no rompa la tabla -->
+        <img src="https://github.com/user-attachments/assets/0786daf8-e62e-49bf-aa57-7710cb44e2d7" width="200" alt="GIF aesthetic" style="border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -44,9 +72,10 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
 ###
+

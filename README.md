@@ -1,6 +1,14 @@
-<div align="center">
-  <!-- Título principal con fuente gótica -->
-  <h1>𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗</h1>
+<!-- Esto crea una caja negra con una imagen de fondo -->
+<div align="center" style="background-color: #000000; background-image: url('https://TU_ENLACE_DE_IMAGEN_NEGRA_AQUI'); background-size: cover; padding: 20px; border-radius: 10px;">
+
+  <!-- Aquí va tu contenido normal -->
+  <h1 style="color: white;">𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗</h1>
+  
+  <p style="color: white;">
+    ◆ Class    → Backend / Full-Stack Apprentice<br>
+    ◆ Origin   → Brazil 🇧🇷
+  </p>
+
 </div>
 
 <!-- Tabla para crear los paneles (Izquierda texto, Derecha imagen) -->

@@ -21,7 +21,6 @@
     </tr>
   </table>
 
-
 </div>
 
 <br>
@@ -65,22 +64,11 @@
 ###
 
 <div align="center">
-  <!-- Streak Stats (Asegúrate de tener actividad pública) -->
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=veqzzzz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   
-  <!-- Trofeos (Necesitas configurar la Action de Trofeos) -->
-  <!-- Si no la tienes configurada, comenta esta línea -->
+  <!-- Trofeos -->
   <img src="https://github-profile-trophy.vercel.app/?username=veqzzzz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<!-- Pacman (Necesitas configurar la Action de Pacman) -->
-<!-- Si no la tienes configurada, comenta este bloque -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
 
 ###

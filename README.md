@@ -15,7 +15,8 @@
     </td>
     <td width="40%" valign="top" align="center">
       <!-- ⚠️ AQUÍ VA TU IMAGEN. Reemplaza el enlace de abajo por uno real -->
-      <img src="https://i.pinimg.com/originals/8e/8e/8e/8e8e8e8e8e8e8e8e8e8e8e8e.jpg" width="80" alt="Cruz" style="filter: grayscale(100%);" />
+<img width="500" height="281" alt="115486" src="https://github.com/user-attachments/assets/0786daf8-e62e-49bf-aa57-7710cb44e2d7" />
+
     </td>
   </tr>
 </table>

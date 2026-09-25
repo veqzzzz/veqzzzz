@@ -44,9 +44,50 @@
 
 ---
 
-### Statistics
 
-<!-- Estadísticas con fondo negro. Reemplaza "veqzzzz" por tu usuario real -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veqzzzz&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Estadísticas de GitHub" />
-</p>
+<!-- Section Title -->
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        💻 Programming Statistics
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+<div align="center">
+
+<!--START_SECTION:commit-day-moment-->
+**🕒 I'm A Night 🦉**
+
+```text
+🌅 Morning                281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87%
+🌞 Daytime                773 commits         █████████░░░░░░░░░░░░░░░░   35.39%
+🌆 Evening                611 commits         ███████░░░░░░░░░░░░░░░░░░   27.98%
+🌙 Night                  519 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76%
+```
+
+
+<!--END_SECTION:commit-day-moment-->
+
+
+
+<!--START_SECTION:langTime-->
+
+```rust
+From: 27 October 2024 - To: 25 September 2026
+
+Total Time: 2,409 hrs 27 mins
+
+TypeScript                 1,384 hrs 27 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.20 %
+JavaScript                 191 hrs 23 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.91 %
+Markdown                   137 hrs 18 mins       ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.67 %
+CSS                        131 hrs 46 mins       ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.44 %
+Java                       106 hrs 43 mins       ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.41 %
+Python                     106 hrs 38 mins       ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.41 %
+HTML                       80 hrs 34 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 %
+C#                         24 hrs 33 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.01 %
+```
+
+<!--END_SECTION:langTime-->

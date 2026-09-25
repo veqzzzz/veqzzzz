@@ -1,32 +1,28 @@
-<!-- Esto crea una caja negra con una imagen de fondo -->
-<div align="center" style="background-color: #000000; background-image: url('https://TU_ENLACE_DE_IMAGEN_NEGRA_AQUI'); background-size: cover; padding: 20px; border-radius: 10px;">
+<!-- Contenedor principal con fondo negro -->
+<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
 
-  <!-- Aquí va tu contenido normal -->
+  <!-- Título con fuente gótica -->
   <h1 style="color: white;">𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗</h1>
   
-  <p style="color: white;">
-    ◆ Class    → Backend / Full-Stack Apprentice<br>
-    ◆ Origin   → Brazil 🇧🇷
-  </p>
+  <!-- Tabla para dividir texto e imagen -->
+  <table border="0" width="100%">
+    <tr>
+      <!-- Columna Izquierda: Texto -->
+      <td width="50%" valign="middle" align="left">
+        <p style="color: white; font-family: monospace; font-size: 14px;">
+          ◆ Class    → Backend / Full-Stack Apprentice<br>
+          ◆ Origin   → Brazil 🇧🇷
+        </p>
+      </td>
+      <!-- Columna Derecha: GIF -->
+      <td width="50%" valign="middle" align="center">
+        <!-- Aquí va tu GIF. Le puse width="200" para que no rompa la tabla -->
+        <img src="https://github.com/user-attachments/assets/0786daf8-e62e-49bf-aa57-7710cb44e2d7" width="200" alt="GIF aesthetic" style="border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
 
 </div>
-
-<!-- Tabla para crear los paneles (Izquierda texto, Derecha imagen) -->
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <br>
-      <pre>
-◆ Class    → Backend / Full-Stack Apprentice
-◆ Origin   → Brazil 🇧🇷
-      </pre>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <!-- ⚠️ AQUÍ VA TU IMAGEN. Reemplaza el enlace de abajo por uno real -->
-<img width="500" height="281" alt="115486" src="https://github.com/user-attachments/assets/0786daf8-e62e-49bf-aa57-7710cb44e2d7" />
-
-  </tr>
-</table>
 
 <br>
 
@@ -50,7 +46,7 @@
 
 ### Statistics
 
-<!-- ⚠️ AQUÍ VAN TUS ESTADÍSTICAS. Reemplaza "veqzzzz" por tu usuario real -->
+<!-- Estadísticas con fondo negro. Reemplaza "veqzzzz" por tu usuario real -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veqzzzz&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Estadísticas de GitHub" />
 </p>

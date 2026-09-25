@@ -1,93 +1,37 @@
-<!-- Contenedor principal con fondo negro -->
-<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-  <!-- Título con fuente gótica -->
-  <h1 style="color: white;">𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗</h1>
-  
-  <!-- Tabla para dividir texto e imagen -->
-  <table border="0" width="100%">
-    <tr>
-      <!-- Columna Izquierda: Texto -->
-      <td width="50%" valign="middle" align="left">
-        <p style="color: white; font-family: monospace; font-size: 14px;">
-          ◆ Class    → Backend / Full-Stack Apprentice<br>
-          ◆ Origin   → Spanish/France/Morrocan 🇪🇸 🇫🇷 🇲🇦
-        </p>
-      </td>
-      <!-- Columna Derecha: GIF -->
-      <td width="50%" valign="middle" align="center">
-        <!-- Aquí va tu GIF. Le puse width="200" para que no rompa la tabla -->
-        <img src="https://github.com/user-attachments/assets/0786daf8-e62e-49bf-aa57-7710cb44e2d7" width="200" alt="GIF aesthetic" style="border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
+###
 
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-<br>
+###
 
----
-
-### Technologies
-
-<!-- Badges minimalistas en blanco y negro -->
-<p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<br>
-
----
-
-
-<!-- Section Title -->
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        💻 Programming Statistics
-      </h1>
-    </summary>
-  </ul>
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-<div align="center">
-
-<!--START_SECTION:commit-day-moment-->
-**🕒 I'm A Night 🦉**
-
-```text
-🌅 Morning                281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87%
-🌞 Daytime                773 commits         █████████░░░░░░░░░░░░░░░░   35.39%
-🌆 Evening                611 commits         ███████░░░░░░░░░░░░░░░░░░   27.98%
-🌙 Night                  519 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76%
-```
-
-
-<!--END_SECTION:commit-day-moment-->
-
-
-
-<!--START_SECTION:langTime-->
-
-```rust
-From: 27 October 2024 - To: 25 September 2026
-
-Total Time: 2,409 hrs 27 mins
-
-TypeScript                 1,384 hrs 27 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.20 %
-JavaScript                 191 hrs 23 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.91 %
-Markdown                   137 hrs 18 mins       ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.67 %
-CSS                        131 hrs 46 mins       ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.44 %
-Java                       106 hrs 43 mins       ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.41 %
-Python                     106 hrs 38 mins       ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.41 %
-HTML                       80 hrs 34 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 %
-C#                         24 hrs 33 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.01 %
-```
-
-<!--END_SECTION:langTime-->
+###

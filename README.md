@@ -17,7 +17,6 @@
       <!-- ⚠️ AQUÍ VA TU IMAGEN. Reemplaza el enlace de abajo por uno real -->
 <img width="500" height="281" alt="115486" src="https://github.com/user-attachments/assets/0786daf8-e62e-49bf-aa57-7710cb44e2d7" />
 
-    </td>
   </tr>
 </table>
 

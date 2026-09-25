@@ -16,7 +16,6 @@
       </td>
       <!-- Columna Derecha: GIF -->
       <td width="50%" valign="middle" align="center">
-        <!-- Aquí va tu GIF. Le puse width="200" para que no rompa la tabla -->
         <img src="https://github.com/user-attachments/assets/0786daf8-e62e-49bf-aa57-7710cb44e2d7" width="200" alt="GIF aesthetic" style="border-radius: 8px;" />
       </td>
     </tr>
@@ -26,11 +25,11 @@
 
 <br>
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
-<div data-importer="techs" align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
@@ -54,7 +53,7 @@
 
 ###
 
-<div data-importer="socials" align="center">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -64,18 +63,23 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=veqzzzz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/veqzzzz/veqzzzz/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+  <!-- Streak Stats (Asegúrate de tener actividad pública) -->
+  <img src="https://streak-stats.demolab.com?user=veqzzzz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
+  <!-- Trofeos (Necesitas configurar la Action de Trofeos) -->
+  <!-- Si no la tienes configurada, comenta esta línea -->
+  <img src="https://github-profile-trophy.vercel.app/?username=veqzzzz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<picture data-importer="pacman">
+<!-- Pacman (Necesitas configurar la Action de Pacman) -->
+<!-- Si no la tienes configurada, comenta este bloque -->
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph.svg?game=breakout">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/veqzzzz/veqzzzz/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
 ###
-
